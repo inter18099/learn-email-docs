@@ -1,2 +1,3 @@
 # learn-email-docs
-Learn Email Standard docs
+
+> https://datatracker.ietf.org/doc/html/rfc2822
